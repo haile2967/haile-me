@@ -1,0 +1,101 @@
+*{
+    margin: 0;
+    padding: 10px;
+}
+
+header{
+   
+    background-color: darkolivegreen;
+    
+ position: fixed; 
+    width:90%;
+    display :flex;
+    text-align: right;
+    justify-content: space-between;
+    align-items: center;
+    height:50px;
+   
+}
+.bgimage {
+    border: solid red 1px;
+    background-color: bisque;
+    margin-top: 100px;
+    padding-top: 100px;
+    height:100vh;
+    background-size:cover;
+      /*position:relative;*/
+}
+
+#about-me{
+    background-color: antiquewhite;
+    margin-top: 100px;
+    text-align: center;
+    padding-top: 100px;
+    padding-bottom: 5px;
+   width:100%;
+    
+}
+#about{
+    border: solid red 1px;
+    background-color:rgb(216, 151, 151);
+    background-image: url('');
+    padding-bottom: 5px;
+    height:100vh;
+    background-size:cover;
+}
+#service-text{
+    background-color: antiquewhite;
+    margin-top: 100px;
+    text-align:center;
+    padding-top: 100px;
+    padding-bottom: 5px;
+   width:100%; 
+}
+#services{
+    border: solid red 1px;
+    background-color:rgb(216, 151, 151);
+    background-image: url('');
+    padding-bottom: 5px;
+    height:100vh;
+    background-size:cover;*/
+}
+.text-center{
+    background-color: antiquewhite;
+    margin-top: 100px;
+    text-align: center;
+    padding-top: 100px;
+    padding-bottom: 5px;
+   width:100%;
+}
+/*.servie-text{
+    display:flex;
+}
+#web-text{
+    width: 20px;
+    margin: solid black 1px;
+}*/
+#portifolio{
+    border: solid red 1px;
+    background-color:rgb(216, 151, 151);
+    background-image: url('');
+    padding-bottom: 5px;
+    height:100vh;
+    background-size:cover;
+}
+footer{
+    margin: top 0px; ;
+    background-color: rgb(10, 3, 17);
+    color: #fcf8f8;
+    border: solid red 1px;
+    padding: left 1000px; ;
+}
+.web-text{
+    width: 20px;
+    margin: solid black 1px;
+    display: inline;
+}
+.web-design-text{
+    width: 20px;
+    margin: solid black 1px;
+    display: inline;
+}
